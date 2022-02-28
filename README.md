@@ -12,7 +12,7 @@ Download videos from various websites using this telegram bot
 #### Manually
 - Make sure docker is installed and running
 ```sh
-    git clone https://github.com/DaruaraFriends/VideoDownloaderBot
+    git clone https://github.com/Villan37/VideoDownloaderBot
     cd VideoDownloaderBot
     docker build -t vdb .
     cp sample.env .env
